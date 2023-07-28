@@ -1,0 +1,51 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+html {
+  height: 100%;
+}
+body {
+  /* height: 100%; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: honeydew;
+  text-align: center;
+  font-family: monospace;
+  padding: 20px 0px;
+}
+button {
+  padding: 20px 40px;
+  font-size: 14px;
+  background-color: white;
+  outline-style: solid;
+  outline-width: 1px;
+  border: none;
+  margin: 10px 0px 0px 0px;
+  font-family: monospace;
+}
+button::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+button:hover {
+  background-color: aquamarine;
+}
+button:active {
+  background-color: greenyellow;
+}
+p {
+  margin-top: 5vh;
+}
+.card {
+  background-color: white;
+  outline-style: solid;
+  outline-width: 1px;
+  border: none;
+  padding: 20px;
+  margin: 5vh;
+}
+.card > p {
+  font-weight: 800;
+}
