@@ -49,3 +49,18 @@ p {
 .card > p {
   font-weight: 800;
 }
+
+.box{
+  padding: 20px 40px;
+  font-size: 14px;
+  background-color: white;
+  outline-style: solid;
+  outline-width: 1px;
+  border: none;
+  margin: 5vh auto 5vh auto;
+  font-family: monospace;
+  width: 30vw;
+}
+.box > p{
+  margin-top: 2vh;
+}

@@ -1,34 +1,20 @@
-# Recap
+# Working with PolkadotJS API
 
-## How it Started
-Ok, how this thing started.
+This Repo is a little Rundown of How to interact with an ink! Contract via PolkadotJs.  
+I started simple, went thruh all relevant features of PolkadotJS.  
+After I had the rundown, i made it a bit more nicer and added Vue.  
+In the end i figured out how to make actually the Smart Contract Call and added it.  
 
-Currently I struggle to call an ink! contract from a frontend.  
-A friend reccomended me polkadot.study  
-I created an Issue to make tiny frontend for  a preexisting ink tutorial that i really like.  
-I suggested a Tutorial with such an outline
-- Figma
-- HTML
-- CSS
-- TS
-- Framework
+See the **HelloWorld.vue** Component for How to interact with a deployed Smart contract.
 
-## Process
-
-I like 
-- first do then think.  
-- Start small build on top of it.  
-- One thing after antother.  
-
-So my process is the following.  
-**I pressed start and see what happend.**
+### Showcase
 
 1. Setting up an enviroment
     - Escpecially with ink! its crucial
     - Download VirtualBox
     - Download Pop OS
     - Install Pop OS
-    - Install all necessary tooling
+    - Install all necessary tooling  
 
 2. Create an Contract
     - Basic Commands
@@ -55,12 +41,13 @@ So my process is the following.
     - Add views
     - Add simple routing
 
->I recorded it.  
-In the comment Section there should be Timestamps.  
-The Nameing of the Timestampe should give a bit more insight.  
-[YT-Link](https://youtu.be/pxkwScapyJQ)
+6. Make SmartContract Call work
 
+### Contact
 
-## Reflect
+If you find this Repo and have questions just contact me.
 
--- Comming Soon --
+|Media|Address|
+|:-|:-|
+|Email|`frank_dierolf@web.de`|
+|Discord|`FrankBevr`|

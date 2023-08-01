@@ -11,7 +11,7 @@
   "type": "module",
   "license": "ISC",
   "dependencies": {
-    "@polkadot/api": "^8.14.2-12",
+    "@polkadot/api": "^10.9.1",
     "@polkadot/api-contract": "^10.9.1",
     "vue": "^3.3.4"
   },
